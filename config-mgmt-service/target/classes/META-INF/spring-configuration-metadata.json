@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "config-mgmt-service",
+      "type": "com.example.demo.config.MyConfiguration",
+      "sourceType": "com.example.demo.config.MyConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "config-mgmt-service.value1",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.demo.config.MyConfiguration"
+    },
+    {
+      "name": "config-mgmt-service.value2",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.config.MyConfiguration"
+    }
+  ],
+  "hints": []
+}
